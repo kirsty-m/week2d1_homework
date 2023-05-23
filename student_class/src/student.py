@@ -10,3 +10,7 @@ class Student:
     def say_favourite_language(self, favourite_language):
        favourite_langauge = "Python"
        return "I love " + favourite_language
+
+    # solution from classnotes
+    # def say_favourite_language(self, language):
+    #     return f"I love {language}"
